@@ -1,11 +1,11 @@
-# 💖 Contador React — Rosa Choque Dark Mode  
+# Contador React — Rosa Choque Dark Mode  
 
 Um mini projeto feito com **React + Vite**, utilizando o hook **`useState`** para manipular o estado de um contador de forma simples e interativa.  
-O visual foi desenvolvido com um tema **dark moderno** e detalhes em **rosa choque** para dar um toque vibrante ✨
+O visual foi desenvolvido com um tema **dark moderno** e detalhes em **rosa choque** para dar um toque vibrante.
 
 ---
 
-## 🧠 Conceitos aplicados
+## Conceitos aplicados
 
 - `useState` para gerenciar estado no React  
 - Atualização de estado com função (prevState)  
@@ -14,19 +14,19 @@ O visual foi desenvolvido com um tema **dark moderno** e detalhes em **rosa choq
 
 ---
 
-## 🖥️ Preview do projeto
+## Preview do projeto
 
-### 🌙 Tema Dark + Rosa Choque  
+### Tema Dark + Rosa Choque  
 <img src="prints/tela1.png" width="500" alt="Tela principal do contador"/>
 
-### ⚡ Interações  
+### Interações  
 <img src="prints/tela2.png" width="500" alt="Contador em funcionamento"/>
 
 > 💡 *Você pode criar uma pasta chamada `prints` na raiz do projeto e colocar as capturas de tela lá.*
 
 ---
 
-## ⚙️ Tecnologias usadas
+## Tecnologias usadas
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
@@ -35,7 +35,7 @@ O visual foi desenvolvido com um tema **dark moderno** e detalhes em **rosa choq
 
 ---
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 ```bash
 # 1️⃣ Clonar o repositório
