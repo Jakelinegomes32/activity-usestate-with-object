@@ -1,0 +1,49 @@
+:root {
+  --bg: #121212;
+  --pink: #ff1493;
+  --light-pink: #ff69b4;
+  --text: #fff;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background-color: #1f1f1f;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 15px var(--light-pink);
+  text-align: center;
+}
+
+input {
+  margin: 0.5rem;
+  padding: 0.7rem;
+  border-radius: 0.5rem;
+  border: 2px solid var(--pink);
+  background: transparent;
+  color: var(--text);
+  outline: none;
+  font-size: 1rem;
+}
+
+input:focus {
+  border-color: var(--light-pink);
+  box-shadow: 0 0 10px var(--light-pink);
+}
+
+h1 {
+  color: var(--pink);
+}
+
+span {
+  color: var(--light-pink);
+}
