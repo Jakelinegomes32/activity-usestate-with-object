@@ -14,16 +14,6 @@ O visual foi desenvolvido com um tema **dark moderno** e detalhes em **rosa choq
 
 ---
 
-## Preview do projeto
-
-### Tema Dark + Rosa Choque  
-<img src = "prints/tela1.png" width="500" alt="Tela principal do contador"/>
-
-### Interações  
-<img src = "prints/tela2.png" width="500" alt="Contador em funcionamento"/>
-
----
-
 ## Tecnologias usadas
 
 - [React](https://react.dev/)
