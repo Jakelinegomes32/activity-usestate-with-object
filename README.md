@@ -22,8 +22,6 @@ O visual foi desenvolvido com um tema **dark moderno** e detalhes em **rosa choq
 ### Interações  
 <img src = "prints/tela2.png" width="500" alt="Contador em funcionamento"/>
 
-> 💡 *Você pode criar uma pasta chamada `prints` na raiz do projeto e colocar as capturas de tela lá.*
-
 ---
 
 ## Tecnologias usadas
